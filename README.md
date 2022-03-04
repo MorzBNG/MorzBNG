@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MorzBNG
 - 👀 I’m interested in modding (BeamNG/MP) and programming (Unity) Games
-- 🌱 I’m currently learning how to make BeamNG.drive Mods
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to make BeamMP mods kk
+- 💞️ I’m looking to collaborate on a BeamMP racing organisation mod
 - 📫 How to reach me: MorzBNG#3060
 
 <!---
